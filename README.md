@@ -28,6 +28,14 @@ Pull:Team ->synchronize Workspace -> no -> Team ->pull ->close
 
 Push :Team ->pushtoOrogine
 
+For VS code git Command:
+
+clone:ctrl+shift+p ->gitclone ->past the url
+
+
+push: make change -> right click ->stage -> {add a comment} -> commet -> push
+
+pull: pull
 
 
 All The Best Guys !!!!
