@@ -1,0 +1,15 @@
+Create a card component
+
+
+in the card class create a service class,router class,card.ts class.
+
+Only a customer should be provided with this feature.[using of router after login]
+It should allow to enter a new card details, details to be entered are,
+Card Type: Can be Debit card or Credit card(should be selected from dropdown),(use drop down list)
+Card number: Should be of 16 digits[maxlength,minlength]
+CVV: Should be of 3 digits[maxlength,minlength]
+Expiry Date: Only month and year should be entered, that should be of future.[use drop down list]
+Name on Card: Only alphabets and spaces are allowed, the length should not be more than 50 characters, it should not contain only spaces.[pattern]
+Note: The cvv should be hashed before storing to the database.
+If all the validations are proper, the details should be stored to database.
+Display proper messages in case of any error or exception.
