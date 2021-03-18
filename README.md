@@ -15,8 +15,13 @@ For git command:
 https://education.github.com/git-cheat-sheet-education.pdf
 
 For Eclips git command:
+
 Commit:Team-> commit -> ++ -> commitMessage -> commit
+
+
 Pull:Team ->synchronize Workspace -> no -> Team ->pull ->close
+
+
 Push :Team ->pushtoOrogine
 
 
